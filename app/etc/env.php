@@ -10,10 +10,10 @@ return [
         'table_prefix' => '',
         'connection' => [
             'default' => [
-                'host' => '192.168.11.229',
+                'host' => 'localhost',
                 'dbname' => 'zagana',
                 'username' => 'root',
-                'password' => 'pass',
+                'password' => '',
                 'active' => '1'
             ]
         ]
