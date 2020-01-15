@@ -1,4 +1,4 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579062364;s:6:"expire";i:1579148764;s:4:"tags";s:280:"14a_CAT_P,14a_BLOCK_HTML,14a_CAT_P_98,14a_CAT_P_74,14a_CAT_P_87,14a_CAT_P_75,14a_CAT_P_90,14a_CAT_P_76,14a_CAT_P_97,14a_CAT_P_77,14a_CAT_P_91,14a_CAT_P_78,14a_CAT_P_92,14a_CAT_P_79,14a_CAT_P_93,14a_CAT_P_80,14a_CAT_P_94,14a_CAT_P_81,14a_CAT_P_95,14a_CAT_P_82,14a_CAT_P_88,14a_MAGE";}
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579065901;s:6:"expire";i:1579152301;s:4:"tags";s:280:"14a_CAT_P,14a_BLOCK_HTML,14a_CAT_P_98,14a_CAT_P_74,14a_CAT_P_87,14a_CAT_P_75,14a_CAT_P_90,14a_CAT_P_76,14a_CAT_P_97,14a_CAT_P_77,14a_CAT_P_91,14a_CAT_P_78,14a_CAT_P_92,14a_CAT_P_79,14a_CAT_P_93,14a_CAT_P_80,14a_CAT_P_94,14a_CAT_P_81,14a_CAT_P_95,14a_CAT_P_82,14a_CAT_P_88,14a_MAGE";}
         <div class="block widget block-products-list grid">
                 <div class="block-content">
             <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
@@ -11,7 +11,7 @@ a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579062364;s:6:"expire";i:1579148764;s:4:"t
     <span class="product-image-wrapper"
           style="padding-bottom: 125%;">
         <img class="product-image-photo"
-                        src="http://192.168.11.229/zagana/pub/static/version1579062255/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg"
+                        src="http://192.168.11.229/zagana/pub/static/version1579065858/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg"
             max-width="240"
             max-height="300"
             alt="ZGN0000test"/></span>
@@ -44,7 +44,7 @@ a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579062364;s:6:"expire";i:1579148764;s:4:"t
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="ZGN0000test" action="http://192.168.11.229/zagana/checkout/cart/add/uenc/aHR0cDovLzE5Mi4xNjguMTEuMjI5L3phZ2FuYS8%2C/product/98/" method="post">
                                                             <input type="hidden" name="product" value="98">
                                                             <input type="hidden" name="uenc" value="aHR0cDovLzE5Mi4xNjguMTEuMjI5L3phZ2FuYS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFNU1pNHhOamd1TVRFdU1qSTVMM3BoWjJGdVlTOCUyQy9wcm9kdWN0Lzk4Lw,,">
-                                                            <input name="form_key" type="hidden" value="3dNAfbOtMtAsmGJB" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="PC6CxDhajphpfyqY" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
@@ -137,7 +137,7 @@ a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579062364;s:6:"expire";i:1579148764;s:4:"t
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="ZGN00000500" action="http://192.168.11.229/zagana/checkout/cart/add/uenc/aHR0cDovLzE5Mi4xNjguMTEuMjI5L3phZ2FuYS8%2C/product/74/" method="post">
                                                             <input type="hidden" name="product" value="74">
                                                             <input type="hidden" name="uenc" value="aHR0cDovLzE5Mi4xNjguMTEuMjI5L3phZ2FuYS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFNU1pNHhOamd1TVRFdU1qSTVMM3BoWjJGdVlTOCUyQy9wcm9kdWN0Lzc0Lw,,">
-                                                            <input name="form_key" type="hidden" value="3dNAfbOtMtAsmGJB" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="PC6CxDhajphpfyqY" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
@@ -230,7 +230,7 @@ a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579062364;s:6:"expire";i:1579148764;s:4:"t
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="ZGN00000501" action="http://192.168.11.229/zagana/checkout/cart/add/uenc/aHR0cDovLzE5Mi4xNjguMTEuMjI5L3phZ2FuYS8%2C/product/75/" method="post">
                                                             <input type="hidden" name="product" value="75">
                                                             <input type="hidden" name="uenc" value="aHR0cDovLzE5Mi4xNjguMTEuMjI5L3phZ2FuYS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFNU1pNHhOamd1TVRFdU1qSTVMM3BoWjJGdVlTOCUyQy9wcm9kdWN0Lzc1Lw,,">
-                                                            <input name="form_key" type="hidden" value="3dNAfbOtMtAsmGJB" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="PC6CxDhajphpfyqY" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
@@ -323,7 +323,7 @@ a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579062364;s:6:"expire";i:1579148764;s:4:"t
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="ZGN00000502" action="http://192.168.11.229/zagana/checkout/cart/add/uenc/aHR0cDovLzE5Mi4xNjguMTEuMjI5L3phZ2FuYS8%2C/product/76/" method="post">
                                                             <input type="hidden" name="product" value="76">
                                                             <input type="hidden" name="uenc" value="aHR0cDovLzE5Mi4xNjguMTEuMjI5L3phZ2FuYS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFNU1pNHhOamd1TVRFdU1qSTVMM3BoWjJGdVlTOCUyQy9wcm9kdWN0Lzc2Lw,,">
-                                                            <input name="form_key" type="hidden" value="3dNAfbOtMtAsmGJB" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="PC6CxDhajphpfyqY" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
@@ -416,7 +416,7 @@ a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579062364;s:6:"expire";i:1579148764;s:4:"t
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="ZGN00000503" action="http://192.168.11.229/zagana/checkout/cart/add/uenc/aHR0cDovLzE5Mi4xNjguMTEuMjI5L3phZ2FuYS8%2C/product/77/" method="post">
                                                             <input type="hidden" name="product" value="77">
                                                             <input type="hidden" name="uenc" value="aHR0cDovLzE5Mi4xNjguMTEuMjI5L3phZ2FuYS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFNU1pNHhOamd1TVRFdU1qSTVMM3BoWjJGdVlTOCUyQy9wcm9kdWN0Lzc3Lw,,">
-                                                            <input name="form_key" type="hidden" value="3dNAfbOtMtAsmGJB" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="PC6CxDhajphpfyqY" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
@@ -509,7 +509,7 @@ a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579062364;s:6:"expire";i:1579148764;s:4:"t
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="ZGN00000504" action="http://192.168.11.229/zagana/checkout/cart/add/uenc/aHR0cDovLzE5Mi4xNjguMTEuMjI5L3phZ2FuYS8%2C/product/78/" method="post">
                                                             <input type="hidden" name="product" value="78">
                                                             <input type="hidden" name="uenc" value="aHR0cDovLzE5Mi4xNjguMTEuMjI5L3phZ2FuYS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFNU1pNHhOamd1TVRFdU1qSTVMM3BoWjJGdVlTOCUyQy9wcm9kdWN0Lzc4Lw,,">
-                                                            <input name="form_key" type="hidden" value="3dNAfbOtMtAsmGJB" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="PC6CxDhajphpfyqY" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
@@ -602,7 +602,7 @@ a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579062364;s:6:"expire";i:1579148764;s:4:"t
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="ZGN00000505" action="http://192.168.11.229/zagana/checkout/cart/add/uenc/aHR0cDovLzE5Mi4xNjguMTEuMjI5L3phZ2FuYS8%2C/product/79/" method="post">
                                                             <input type="hidden" name="product" value="79">
                                                             <input type="hidden" name="uenc" value="aHR0cDovLzE5Mi4xNjguMTEuMjI5L3phZ2FuYS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFNU1pNHhOamd1TVRFdU1qSTVMM3BoWjJGdVlTOCUyQy9wcm9kdWN0Lzc5Lw,,">
-                                                            <input name="form_key" type="hidden" value="3dNAfbOtMtAsmGJB" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="PC6CxDhajphpfyqY" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
@@ -695,7 +695,7 @@ a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579062364;s:6:"expire";i:1579148764;s:4:"t
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="ZGN00000506" action="http://192.168.11.229/zagana/checkout/cart/add/uenc/aHR0cDovLzE5Mi4xNjguMTEuMjI5L3phZ2FuYS8%2C/product/80/" method="post">
                                                             <input type="hidden" name="product" value="80">
                                                             <input type="hidden" name="uenc" value="aHR0cDovLzE5Mi4xNjguMTEuMjI5L3phZ2FuYS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFNU1pNHhOamd1TVRFdU1qSTVMM3BoWjJGdVlTOCUyQy9wcm9kdWN0LzgwLw,,">
-                                                            <input name="form_key" type="hidden" value="3dNAfbOtMtAsmGJB" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="PC6CxDhajphpfyqY" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
@@ -788,7 +788,7 @@ a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579062364;s:6:"expire";i:1579148764;s:4:"t
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="ZGN00000507" action="http://192.168.11.229/zagana/checkout/cart/add/uenc/aHR0cDovLzE5Mi4xNjguMTEuMjI5L3phZ2FuYS8%2C/product/81/" method="post">
                                                             <input type="hidden" name="product" value="81">
                                                             <input type="hidden" name="uenc" value="aHR0cDovLzE5Mi4xNjguMTEuMjI5L3phZ2FuYS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFNU1pNHhOamd1TVRFdU1qSTVMM3BoWjJGdVlTOCUyQy9wcm9kdWN0LzgxLw,,">
-                                                            <input name="form_key" type="hidden" value="3dNAfbOtMtAsmGJB" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="PC6CxDhajphpfyqY" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
@@ -881,7 +881,7 @@ a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579062364;s:6:"expire";i:1579148764;s:4:"t
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="ZGN00000508" action="http://192.168.11.229/zagana/checkout/cart/add/uenc/aHR0cDovLzE5Mi4xNjguMTEuMjI5L3phZ2FuYS8%2C/product/82/" method="post">
                                                             <input type="hidden" name="product" value="82">
                                                             <input type="hidden" name="uenc" value="aHR0cDovLzE5Mi4xNjguMTEuMjI5L3phZ2FuYS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFNU1pNHhOamd1TVRFdU1qSTVMM3BoWjJGdVlTOCUyQy9wcm9kdWN0LzgyLw,,">
-                                                            <input name="form_key" type="hidden" value="3dNAfbOtMtAsmGJB" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="PC6CxDhajphpfyqY" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
