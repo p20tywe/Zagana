@@ -1,4 +1,8 @@
+<<<<<<< HEAD:var/cache/mage--f/mage---14a_BLOCK_703C13F8580D29656CD05151C874CC1E044BA640_OLD_PRICE_74_WIDGET_PRODUCT_GRID_FINAL_PRICE_PHP_20200115_1_0_
 a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579065900;s:6:"expire";i:1579152300;s:4:"tags";s:59:"14a_BLOCK_HTML,14a_CAT_P_74,14a_CAT_P,14a_CAT_P_87,14a_MAGE";}
+=======
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579066188;s:6:"expire";i:1579152588;s:4:"tags";s:59:"14a_BLOCK_HTML,14a_CAT_P_74,14a_CAT_P,14a_CAT_P_87,14a_MAGE";}
+>>>>>>> joseph-zagana:var/cache/mage--9/mage---14a_BLOCK_6A20CFEA3F0D4D825B8D8EB6371E8CA21F04D440_OLD_PRICE_74_WIDGET_PRODUCT_GRID_FINAL_PRICE_USD_20200114_1_0_
 <div class="price-box price-final_price" data-role="priceBox" data-product-id="74" data-price-box="product-id-74"><span class="normal-price">
     
 

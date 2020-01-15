@@ -1,4 +1,8 @@
+<<<<<<< HEAD:var/cache/mage--6/mage---14a_BLOCK_3DA3E0A9B343B56C943A2041E939DA8FF341CCBA_74
 a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579065900;s:6:"expire";i:1579069500;s:4:"tags";s:59:"14a_BLOCK_HTML,14a_CAT_P_74,14a_CAT_P,14a_CAT_P_87,14a_MAGE";}
+=======
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579066188;s:6:"expire";i:1579069788;s:4:"tags";s:59:"14a_BLOCK_HTML,14a_CAT_P_74,14a_CAT_P,14a_CAT_P_87,14a_MAGE";}
+>>>>>>> joseph-zagana:var/cache/mage--3/mage---14a_BLOCK_51E8650A14EC04E3A411258384A9B310BA871E81_74
 <div class="swatch-opt-74"
      data-role="swatch-option-74"></div>
 
