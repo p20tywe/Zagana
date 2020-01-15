@@ -1,0 +1,31 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579067404;s:6:"expire";i:1579071004;s:4:"tags";s:85:"14a_BLOCK_HTML,14a_CAT_P_73,14a_CAT_P,14a_CAT_P_70,14a_CAT_P_71,14a_CAT_P_72,14a_MAGE";}
+<div class="swatch-opt-73"
+     data-role="swatch-option-73"></div>
+
+<script type="text/x-magento-init">
+    {
+        "[data-role=swatch-option-73]": {
+            "Magento_Swatches/js/swatch-renderer": {
+                "selectorProduct": ".product-item-details",
+                "onlySwatches": true,
+                "enableControlLabel": false,
+                "numberToShow": 16,
+                "jsonConfig": {"attributes":{"145":{"id":"145","code":"kg","label":"Unit of measurement","options":[{"id":"5433","label":"1 kg","products":["70"]},{"id":"5434","label":"5 kg","products":["71"]},{"id":"5435","label":"10 kg","products":["72"]}],"position":"0"}},"template":"\u20b1<%- data.price %>","currencyFormat":"\u20b1%s","optionPrices":{"70":{"oldPrice":{"amount":100},"basePrice":{"amount":100},"finalPrice":{"amount":100},"tierPrices":[],"msrpPrice":{"amount":null}},"71":{"oldPrice":{"amount":475},"basePrice":{"amount":475},"finalPrice":{"amount":475},"tierPrices":[],"msrpPrice":{"amount":null}},"72":{"oldPrice":{"amount":1000},"basePrice":{"amount":1000},"finalPrice":{"amount":1000},"tierPrices":[],"msrpPrice":{"amount":null}}},"priceFormat":{"pattern":"\u20b1%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"oldPrice":{"amount":100},"basePrice":{"amount":100},"finalPrice":{"amount":100}},"productId":"73","chooseText":"Choose an Option...","images":[],"index":{"70":{"145":"5433"},"71":{"145":"5434"},"72":{"145":"5435"}}},
+                "jsonSwatchConfig": {"145":{"5433":{"type":"0","value":"1 kg","label":"1 kg"},"5434":{"type":"0","value":"5 kg","label":"5 kg"},"5435":{"type":"0","value":"10 kg","label":"10 kg"},"additional_data":"{\"swatch_input_type\":\"text\",\"update_product_preview_image\":\"1\",\"use_product_image_for_swatch\":0}"}},
+                "mediaCallback": "http\u003A\u002F\u002F192.168.11.229\u002Fzagana\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}}            }
+        }
+    }
+</script>
+
+<script type="text/x-magento-init">
+    {
+        "[data-role=priceBox][data-price-box=product-id-73]": {
+            "priceBox": {
+                "priceConfig": {
+                    "priceFormat": {"pattern":"\u20b1%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                    "prices": {"oldPrice":{"amount":100},"basePrice":{"amount":100},"finalPrice":{"amount":100}}                }
+            }
+        }
+    }
+</script>

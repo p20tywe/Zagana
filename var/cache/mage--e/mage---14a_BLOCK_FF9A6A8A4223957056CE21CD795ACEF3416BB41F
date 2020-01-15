@@ -1,8 +1,4 @@
-<<<<<<< HEAD:var/cache/mage--e/mage---14a_BLOCK_FF9A6A8A4223957056CE21CD795ACEF3416BB41F
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579065901;s:6:"expire";i:1579152301;s:4:"tags";s:280:"14a_CAT_P,14a_BLOCK_HTML,14a_CAT_P_98,14a_CAT_P_74,14a_CAT_P_87,14a_CAT_P_75,14a_CAT_P_90,14a_CAT_P_76,14a_CAT_P_97,14a_CAT_P_77,14a_CAT_P_91,14a_CAT_P_78,14a_CAT_P_92,14a_CAT_P_79,14a_CAT_P_93,14a_CAT_P_80,14a_CAT_P_94,14a_CAT_P_81,14a_CAT_P_95,14a_CAT_P_82,14a_CAT_P_88,14a_MAGE";}
-=======
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579066189;s:6:"expire";i:1579152589;s:4:"tags";s:280:"14a_CAT_P,14a_BLOCK_HTML,14a_CAT_P_98,14a_CAT_P_74,14a_CAT_P_87,14a_CAT_P_75,14a_CAT_P_90,14a_CAT_P_76,14a_CAT_P_97,14a_CAT_P_77,14a_CAT_P_91,14a_CAT_P_78,14a_CAT_P_92,14a_CAT_P_79,14a_CAT_P_93,14a_CAT_P_80,14a_CAT_P_94,14a_CAT_P_81,14a_CAT_P_95,14a_CAT_P_82,14a_CAT_P_88,14a_MAGE";}
->>>>>>> joseph-zagana:var/cache/mage--f/mage---14a_BLOCK_D4BB9F469602E6B3EE617D826A5EE3AD9D48B8CA
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579067308;s:6:"expire";i:1579153708;s:4:"tags";s:280:"14a_CAT_P,14a_BLOCK_HTML,14a_CAT_P_98,14a_CAT_P_74,14a_CAT_P_87,14a_CAT_P_75,14a_CAT_P_90,14a_CAT_P_76,14a_CAT_P_97,14a_CAT_P_77,14a_CAT_P_91,14a_CAT_P_78,14a_CAT_P_92,14a_CAT_P_79,14a_CAT_P_93,14a_CAT_P_80,14a_CAT_P_94,14a_CAT_P_81,14a_CAT_P_95,14a_CAT_P_82,14a_CAT_P_88,14a_MAGE";}
         <div class="block widget block-products-list grid">
                 <div class="block-content">
             <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
@@ -15,11 +11,7 @@ a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579066189;s:6:"expire";i:1579152589;s:4:"t
     <span class="product-image-wrapper"
           style="padding-bottom: 125%;">
         <img class="product-image-photo"
-<<<<<<< HEAD:var/cache/mage--e/mage---14a_BLOCK_FF9A6A8A4223957056CE21CD795ACEF3416BB41F
-                        src="http://192.168.11.229/zagana/pub/static/version1579065858/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg"
-=======
-                        src="http://192.168.11.229/zagana/pub/static/version1579066148/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg"
->>>>>>> joseph-zagana:var/cache/mage--f/mage---14a_BLOCK_D4BB9F469602E6B3EE617D826A5EE3AD9D48B8CA
+                        src="http://192.168.11.229/zagana/pub/static/version1579067276/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg"
             max-width="240"
             max-height="300"
             alt="ZGN0000test"/></span>

@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579065898;s:6:"expire";i:1579073098;s:4:"tags";s:49:"14a_STORE,14a_CONFIG,14a_COLLECTION_DATA,14a_MAGE";}
-=======
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579066186;s:6:"expire";i:1579073386;s:4:"tags";s:49:"14a_STORE,14a_CONFIG,14a_COLLECTION_DATA,14a_MAGE";}
->>>>>>> joseph-zagana
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1579067305;s:6:"expire";i:1579074505;s:4:"tags";s:49:"14a_STORE,14a_CONFIG,14a_COLLECTION_DATA,14a_MAGE";}
 [{"group_id":"1","website_id":"1","name":"Main Website Store","root_category_id":"2","default_store_id":"1","code":"main_website_store"}]
