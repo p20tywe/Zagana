@@ -152,7 +152,6 @@ class DefaultInvoice extends \Magento\Sales\Model\Order\Pdf\Items\AbstractItems
         }
 
         $lineBlock = ['lines' => $lines, 'height' => 20];
-
         $page = $pdf->drawLineBlocks($page, [$lineBlock], ['table_header' => true]);
         $this->setPage($page);
     }

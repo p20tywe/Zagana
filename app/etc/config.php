@@ -218,6 +218,7 @@ return [
         'Amazon_Core' => 1,
         'Amazon_Login' => 1,
         'Amazon_Payment' => 1,
+        'Bss_Quickview' => 1,
         'Dotdigitalgroup_Email' => 1,
         'Hiddentechies_Base' => 1,
         'Hiddentechies_Pixtron' => 1,
