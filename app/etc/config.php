@@ -232,6 +232,7 @@ return [
         'Temando_Shipping' => 1,
         'Ulmod_OrderComment' => 1,
         'Vertex_Tax' => 1,
-        'Yotpo_Yotpo' => 1
+        'Yotpo_Yotpo' => 1,
+        'ZaganaPH_CustomerAccount' => 1
     ]
 ];

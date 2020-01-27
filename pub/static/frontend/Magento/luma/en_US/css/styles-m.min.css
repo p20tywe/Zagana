@@ -362,3 +362,39 @@ h1.pages_header {
 body.contact-index-index.page-layout-1column .page-title-wrapper {
     margin-top: 5%;
 }
+
+
+
+footer .links{
+    width: 100%;
+}
+
+footer .widget.block.block-static-block{
+    width: 100%;
+}
+ /* CSS for Footer */
+#footer1{
+        text-align: center;
+    
+    }
+    #div2{
+        margin-top: 2%;
+    }
+
+    #ulcontainer{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        margin-left: 26%;
+    }
+    #ulcontainer li{
+        float: left;
+    }
+
+    #ulcontainer li a {
+     display: block;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+    }
