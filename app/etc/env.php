@@ -13,7 +13,7 @@ return [
                 'host' => '192.168.11.229',
                 'dbname' => 'zagana',
                 'username' => 'root',
-                'password' => 'some_pass',
+                'password' => 'pass',
                 'active' => '1'
             ]
         ]
