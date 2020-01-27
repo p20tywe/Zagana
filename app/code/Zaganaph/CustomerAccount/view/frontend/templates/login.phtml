@@ -1,0 +1,159 @@
+<?php if (!$block->customerIsAlreadyLoggedIn()): ?>
+    <style>
+        .customer-popup-login {
+            display: none;
+        }
+        .or-another-selection {
+            display: inline-block;
+            padding-right: 5px;
+        }
+        @media(max-width: 767px) {
+            .or-another-selection {
+                display: block;
+                text-align: center;
+                margin-bottom: 5px;
+                
+            }
+        }
+
+    header.modal-header .modal-title {
+    border: none;
+    font-size: 28px;
+    font-family: arial black;
+}
+
+
+
+.control #email-login,#pass-login{
+    height: 42px;
+    border-radius: 6px;
+    margin-top:2px;
+     
+}
+
+
+.primary{
+    width:100%;
+    
+}
+
+.primary #send2-login{
+    width:100%;
+    background: #02B14C;
+    height:42px;
+    margin-bottom: 4%;
+}
+
+.primary #facebook-login{
+    width:100%;
+    background: #4769B0;
+    height:42px;
+    margin-top: 2%;
+}
+
+.primary #gmail-login{
+    width:100%;
+    background: #FC5B61;
+    height:42px;
+    margin-top: 2%;
+    margin-bottom: 10%;
+}
+
+.field-note{
+    margin-bottom:4%;
+    text-align: center;
+    font-family: arial black;
+
+}
+
+.field-note #create-account{
+    text-align: center;
+}
+
+#createacc{
+    color:#02B14C;
+    text-align: center;
+    font-family: arial black;
+    font-size: 13px;
+}
+
+#forgot-password{
+    text-align: center;
+    font-size: 12px;
+    font-family: arial;
+    
+}
+
+#gmail-logo{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    right: 15%;
+    top: 2px;
+    
+}
+
+#fb-logo{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    right: 13%;
+    top: 2px;
+    
+}
+    </style>
+    <div id="customer-popup-login" class="customer-popup-login">
+        <div class="block block-customer-login">
+            <div class="block-content" aria-labelledby="block-customer-popup-login-heading">
+                <form class="form form-login"
+                      action="<?php /* @escapeNotVerified */ echo $block->getPostActionUrl() ?>"
+                      method="post"
+                      id="customer-popup-login-form"
+                      data-mage-init='{"validation":{}}'>
+                    <?php echo $block->getBlockHtml('formkey'); ?>
+                    <input type="hidden" name="redirect_url" value="<?php echo $this->getUrl('*/*/*', ['_current' => true, '_use_rewrite' => true]); ?>" />
+                    <fieldset class="fieldset login" data-hasrequired="<?php /* @escapeNotVerified */ echo __('* Required Fields') ?>">
+                        
+                        <div class="messages"></div>
+                        <div class="field email required">
+                            <div class="control">
+                                <input name="username" value="" placeholder="EMAIL" <?php if ($block->isAutocompleteDisabled()) :?> autocomplete="off"<?php endif; ?> id="email-login" type="email" class="input-text" title="<?php /* @escapeNotVerified */ echo __('Email') ?>" data-validate="{required:true, 'validate-email':true}">
+                            </div>
+                        </div>
+                        <div class="field password required">
+                            <div class="control">
+                                <input name="password" type="password" placeholder = "PASSWORD" <?php if ($block->isAutocompleteDisabled()) :?> autocomplete="off"<?php endif; ?> class="input-text" id="pass-login" title="<?php /* @escapeNotVerified */ echo __('Password') ?>" data-validate="{required:true}" >
+                            </div>
+                        </div>
+                        
+                        <div class="actions-toolbar">
+                            <div class="primary"><button type="submit" class="action login primary" name="send" id="send2-login"><span><?php /* @escapeNotVerified */ echo __('CONTINUE') ?></span></button></div>
+                            <div class="field-note"><?php /* @escapeNotVerified */ echo __('OR')?></div> 
+                        
+                        </div>
+
+                        <div class="primary">
+                            <button type="submit" class="action login primary" name="" id="facebook-login"><span><img id="fb-logo" src="<?php echo'http://127.0.0.1/zagana/pub/media//.thumbslogo/loginpage/fb.png?rand=1579560395';?>"></span><span><?php /* @escapeNotVerified */ echo __('CONTINUE WITH FACEBOOK') ?></span></button></div>
+                            <div class="primary"><button type="submit" class="action login primary" name="" id="gmail-login"><span><img id="gmail-logo" src="<?php echo 'http://127.0.0.1/zagana/pub/media//.thumbslogo/loginpage/google.png?rand=1579510833';?>"><?php /* @escapeNotVerified */ echo __('CONTINUE WITH GOOGLE') ?></span></button></div>
+                            <div id="createacc"><?php /* @escapeNotVerified */ echo __('Create an Account') ?></div>
+                            <div id="forgot-password"><?php /* @escapeNotVerified */ echo __('Forgot Password?') ?></div>
+                            <div>
+                            
+                        </div>
+    
+                    </fieldset>
+                </form>
+            </div>
+        </div>
+        <script type="text/x-magento-init">
+            {
+                "#customer-popup-login": {
+                    "ZaganaPH_CustomerAccount/js/action/customer-authentication-popup": {
+                        "popupTitle": "<?php /* @escapeNotVerified */ echo __('Sign In') ?>",
+                        "innerWidth": "400"
+                    }
+                }
+            }
+        </script>
+    </div>
+<?php endif; ?>

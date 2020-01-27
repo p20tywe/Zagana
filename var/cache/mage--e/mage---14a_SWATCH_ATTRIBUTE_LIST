@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1580089648;s:6:"expire";i:9999999999;s:4:"tags";s:26:"14a_EAV_ATTRIBUTE,14a_MAGE";}
+=======
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1580084107;s:6:"expire";i:9999999999;s:4:"tags";s:26:"14a_EAV_ATTRIBUTE,14a_MAGE";}
+>>>>>>> origin/updatedlogin
 {"145":"kg"}
