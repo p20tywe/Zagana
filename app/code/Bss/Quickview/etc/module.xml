@@ -28,5 +28,12 @@
 		<sequence>
         	<module name="Magento_Widget"/>
 		</sequence>
+        <sequence>
+            <module name="Quantity_Buttons"/>
+        </sequence>
     </module>
 </config>
+
+
+    
+
