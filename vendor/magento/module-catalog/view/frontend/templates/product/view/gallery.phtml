@@ -1,16 +1,4 @@
-<?php
-/**
- * Copyright © Magento, Inc. All rights reserved.
- * See COPYING.txt for license details.
- */
-
-/**
- * Product media data template
- *
- * @var $block \Magento\Catalog\Block\Product\View\Gallery
- */
-?>
-
+<?php?>
 <?php
 $images = $block->getGalleryImages()->getItems();
 $mainImage = current(array_filter($images, function ($img) use ($block) {
@@ -34,7 +22,10 @@ $mainImageData = $mainImage ?
         class="gallery-placeholder__image"
         src="<?= /* @noEscape */ $mainImageData ?>"
     />
+    
 </div>
+
+<!-- Custom Carousel -->
 
 <script type="text/x-magento-init">
     {
@@ -50,3 +41,4 @@ $mainImageData = $mainImage ?
         }
     }
 </script>
+
